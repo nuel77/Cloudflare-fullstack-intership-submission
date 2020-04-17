@@ -1,0 +1,6 @@
+name = "emmanuel-cloudfare-project"
+type = "javascript"
+account_id = "0bb1dea4a6e46f5427e42a87f46034ba"
+workers_dev = true
+route = ""
+zone_id = ""
